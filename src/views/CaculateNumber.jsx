@@ -7,3 +7,7 @@ function CaculateNumber() {
 }
 
 export default CaculateNumber
+
+
+
+

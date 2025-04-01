@@ -12,8 +12,8 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<HomeMenu />} />
-        <Route path="/calnum" element={<CaculateNumber />} />
-        <Route path="/calmoneyshaer" element={<CaculateMoneyShaer />} />
+        <Route path="/cln" element={<CaculateNumber />} />
+        <Route path="/clm" element={<CaculateMoneyShaer />} />
       </Routes>
     </BrowserRouter>
     </>
